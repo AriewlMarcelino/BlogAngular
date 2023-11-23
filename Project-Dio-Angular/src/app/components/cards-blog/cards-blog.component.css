@@ -1,0 +1,16 @@
+
+.cards-main{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.container cards-main{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  width: 18rem;
+}
+
